@@ -7085,7 +7085,7 @@ header.nav-root {
 
 #earth-holder {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 1280px;
   overflow: hidden
 }
 
@@ -7118,7 +7118,7 @@ h2.im-ria img {
 
 @media (min-width:992px) {
   h2.im-ria figure {
-    max-width: 350px
+    max-width: 500px
   }
 }
 
@@ -7314,14 +7314,9 @@ h2.notes img {
 }
 
 #head-slider {
-  padding: 1em 0
+  padding: 0em 0
 }
 
-@media (min-width:992px) {
-  #head-slider {
-    padding: 4em 0
-  }
-}
 
 #hello {
   z-index: 980;
@@ -7721,7 +7716,7 @@ footer .footer-list li {
 
 @media (min-width:992px) {
   footer .footer-list li {
-    width: 25%;
+    width: 33.3%;
     padding: 0
   }
 }
