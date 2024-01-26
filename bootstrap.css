@@ -7322,13 +7322,13 @@ h2.notes img {
   z-index: 980;
   position: relative;
   padding: 3em 0 0;
-  margin: 0 0 3em
+  margin: 0 0 0
 }
 
 @media (min-width:992px) {
   #hello {
     padding: 6em 0 0;
-    margin: 0 0 6em
+    margin: 0 0 0
   }
 }
 
@@ -7498,7 +7498,7 @@ article header h2 {
 }
 
 #what-i-do h3 {
-  padding: 0 0 1em;
+  padding: 0 0 0;
   margin: 0
 }
 
